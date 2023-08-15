@@ -1,0 +1,5 @@
+
+Name: Bhanupratap Parmar
+Skills: HTML, CSS, JS, React.js,Express.js,Node.js,MongoDB,MYSQL,Firebase,c++,python
+Email: parmarsinghbhanu@gmail.com
+
